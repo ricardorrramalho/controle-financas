@@ -1,6 +1,6 @@
 # Gerenciador de Financas Pessoais
 
-Projeto simples em Python para registrar receitas, despesas e acompanhar o saldo.
+Projeto em Python para registrar receitas, despesas e acompanhar o saldo.
 
 Ele roda pelo terminal e usa SQLite, entao nao precisa instalar banco de dados nem
 nenhuma biblioteca externa.
@@ -46,8 +46,3 @@ pythonprojeto/
   app.py
   README.md
 ```
-
-## Observacao
-
-A ideia foi deixar o codigo direto e facil de entender, como um projeto de estudo
-bem organizado: funcoes pequenas, nomes em portugues e sem exagerar nas camadas.
